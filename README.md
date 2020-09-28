@@ -3,6 +3,7 @@
 A new Flutter application.
 
 ## Getting Started
+![Billi](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 This project is a starting point for a Flutter application.
 
