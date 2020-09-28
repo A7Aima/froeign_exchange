@@ -5,6 +5,8 @@ A new Flutter application.
 ## Getting Started
 This project is a starting point for a Flutter application.
 
+![Snapshort](https://github.com/A7Aima/froeign_exchange/blob/master/Screenshot_1601320646.png)
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
